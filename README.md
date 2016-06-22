@@ -4,7 +4,7 @@ Custom context menu library
 ##效果演示
 [http://plter.github.io/learnjs/ccmjs/examples/](http://plter.github.io/learnjs/ccmjs/examples/)
 
-##js示例代码如下
+##示例js代码如下
 ```javascript
 (function () {
 
@@ -32,7 +32,7 @@ Custom context menu library
 })();
 ```
 
-##html示例代码如下
+##示例html代码如下
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -57,7 +57,7 @@ Custom context menu library
 </body>
 </html>
 ```
-##css示例代码如下
+##示例css代码如下
 ```css
 
 #div1 {
