@@ -1,6 +1,8 @@
 # ccmjs
 Custom context menu library
 自定义页面中的上下文菜单
+##效果演示
+[http://plter.github.io/learnjs/ccmjs/examples/](http://plter.github.io/learnjs/ccmjs/examples/)
 
 ##js示例代码如下
 ```javascript
